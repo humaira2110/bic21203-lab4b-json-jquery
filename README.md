@@ -11,6 +11,7 @@ Created a JSON file named books.json containing two book objects with their titl
 
 Question 2: Retrieve and Display JSON Data
 Used the JavaScript fetch() API to retrieve and display book information from books.json.
+
 How to run:
 -Open the project folder in VS Code.
 -Start Live Server using books.html.
